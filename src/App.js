@@ -10,7 +10,7 @@ function App() {
 						<img alt="logo" src=
 "https://static.vecteezy.com/system/resources/previews/000/606/261/original/eye-logo-vector.jpg" />
 					</div>
-          <li><h1 class = "text-big"><b>Cataract Checkup</b></h1></li>
+          <li><h1 class = "text-big"><b>Cataract-Checkup</b></h1></li>
 					<li><a href="#types">Types</a></li>
 					<li><a href="#symptoms">Symptoms</a></li>
 					<li><a href="#causes">Causes</a></li>
