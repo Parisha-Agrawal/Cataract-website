@@ -7,7 +7,7 @@ function App() {
 			<nav class="navbar background">
 				<ul class="nav-list">
 					<div class="logo">
-						<img src=
+						<img alt="logo" src=
 "https://static.vecteezy.com/system/resources/previews/000/606/261/original/eye-logo-vector.jpg" />
 					</div>
           <li><h1 class = "text-big"><b>Cataract Checkup</b></h1></li>
@@ -44,7 +44,7 @@ function App() {
 					</div>
           <div class="image">
             <br></br>
-						<img src=
+						<img alt="homepage_img" src=
 "https://www.ucsf.edu/sites/default/files/styles/2014_inline_5-col/public/fields/field_insert_file/news/senior-eye.jpg?itok=yzYuASzh" />
 					</div>
 				</div>
@@ -52,7 +52,7 @@ function App() {
       <section class="section2">
       <div class="box-main">
         <h1 class="text-mid">
-        <button type="button" class="top-center" color='blue'><a href = "">Check Your Eyes</a></button>
+        <button type="button" class="top-center" color='blue'>Check Your Eyes</button>
         </h1>
       </div>
       </section>
