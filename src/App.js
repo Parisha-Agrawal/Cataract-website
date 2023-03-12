@@ -16,10 +16,10 @@ function App() {
 				<button class="btn">Search</button> */}
 				</ul>
 				<ul class="nav-list">
-				<li><a href="#types">Types</a></li>
-				<li><a href="#symptoms">Symptoms</a></li>
-				<li><a href="#causes">Causes</a></li>
-				<li><a href="#treatment">Treatment</a></li>
+				<div class="flex-items"><a href="#types">Types</a></div>
+				<div class="flex-items"><a href="#symptoms">Symptoms</a></div>
+				<div class="flex-items"><a href="#causes">Causes</a></div>
+				<div class="flex-items"><a href="#treatment">Treatment</a></div>
 				</ul>
 			</nav>
 
