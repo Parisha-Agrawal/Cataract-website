@@ -48,7 +48,7 @@ background-color: #000;
 
 .nav-list li {
 	list-style: none;
-	padding: 26px 30px;
+	padding: 26px 25px;
 }
 
 .nav-list li a {
@@ -74,13 +74,13 @@ background-color: #000;
 
 li{
 	/* background-color: #cccaca; */
-	width: 5%;
+	max-width: 0.5%;
 	height: 10px;
 	margin: 1px;
-	text-align: center;
-	display: block;
+	text-align: left;
+	/* display: block; */
 	font-size: 15px;
-	line-height: 1.5;
+	/* line-height: 1.5; */
   }
 
 .box-main {

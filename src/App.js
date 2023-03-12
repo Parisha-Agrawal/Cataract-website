@@ -16,9 +16,9 @@ function App() {
 				<button class="btn">Search</button> */}
 				</ul>
 				<ul class="nav-list">
+				<li><a href="#home">Home</a></li>
 				<li><a href="#types">Types</a></li>
-				<li><a href="#symptoms">Symptoms</a></li>
-				<li><a href="#causes">Causes</a></li>
+				<li><a href="#symptoms">Symptoms </a></li>&emsp;&emsp;
 				<li><a href="#treatment">Treatment</a></li>
 				</ul>
 			</nav>
