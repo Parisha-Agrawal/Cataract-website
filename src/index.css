@@ -2,15 +2,16 @@
 	margin: 0;
 	padding: 0;
 }
-/* 
+
 .navbar {
-	display: flex;
+	/* display: flex; */
+	/* width: 80%; */
 	align-items: center;
 	justify-content: center;
 	position: sticky;
 	top: 0;
 	cursor: pointer;
-} */
+}
 
 .background {
 	background: rgb(255, 255, 255);

@@ -7,14 +7,13 @@ function App() {
 			<nav class="navbar background">
 				<ul class="nav-list">
 					<div class="logo">
-						<img alt="logo" src=
-"https://static.vecteezy.com/system/resources/previews/000/606/261/original/eye-logo-vector.jpg" />
+						<img alt="logo" src= "https://static.vecteezy.com/system/resources/previews/000/606/261/original/eye-logo-vector.jpg" />
 					</div>
           			<li><h1 class = "text-big"><b>Cataract Checkup</b></h1></li>
 				{/* </ul> */}
-
+				{/* 
 				<input type="text" name="search" id="search" size="6"/>
-				<button class="btn">Search</button>
+				<button class="btn">Search</button> */}
 				</ul>
 				<ul class="nav-list">
 				<li><a href="#types">Types</a></li>
