@@ -9,17 +9,17 @@ function App() {
 					<div class="logo">
 						<img alt="logo" src= "https://static.vecteezy.com/system/resources/previews/000/606/261/original/eye-logo-vector.jpg" />
 					</div>
-          			<li><h1 class = "text-big"><b>Cataract Checkup</b></h1></li>
+          			<h1 class = "text-big"><b>Cataract Checkup</b></h1>
 				{/* </ul> */}
 				{/* 
 				<input type="text" name="search" id="search" size="6"/>
 				<button class="btn">Search</button> */}
 				</ul>
 				<ul class="nav-list">
-				<div class="flex-items"><a href="#types">Types</a></div>
-				<div class="flex-items"><a href="#symptoms">Symptoms</a></div>
-				<div class="flex-items"><a href="#causes">Causes</a></div>
-				<div class="flex-items"><a href="#treatment">Treatment</a></div>
+				<li><a href="#types">Types</a></li>
+				<li><a href="#symptoms">Symptoms</a></li>
+				<li><a href="#causes">Causes</a></li>
+				<li><a href="#treatment">Treatment</a></li>
 				</ul>
 			</nav>
 
