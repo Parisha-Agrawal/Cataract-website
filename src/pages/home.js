@@ -9,9 +9,8 @@ function App() {
 					<div class="logo">
 						<img alt="logo" src= "https://static.vecteezy.com/system/resources/previews/000/606/261/original/eye-logo-vector.jpg" />
 					</div>
-          			<h1 class = "text-big"><b>Cataract Checkup</b></h1>
-					  <p style={{ marginLeft: '2em' }}>Stay one step ahead of cataracts: Get your comprehensive checkup today.</p>
-				
+					<h1 class="text-big" style={{ fontFamily: "'Comic Sans MS', cursive" }}><b>Cataract Checkup</b></h1>
+<p style={{ fontFamily: "'Comic Sans MS', cursive", marginLeft: '2em' }}>Stay one step ahead of cataracts: Get your comprehensive checkup today.</p>
 				</ul>
 				<ul class="nav-list">
 				<li><a href="home">Home</a></li>
